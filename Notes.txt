@@ -17,3 +17,18 @@ Advantage of Tuples:
 - Elements can ne used as keys for a dictionary
 - Data that does not change
  <Tuple can reassigned >
+
+Sets
+
+D - a set is an unordered collection of unique items.
+
+- No duplicate elements are allowed in set and must be immutable
+- However, we can add or remove items from it.
+- Perform operations like union, intersection, symmetric differemce etc.
+
+Dictionary
+
+D - an unordered collection of item
+
+- key: value pair
+- optimized to retrieve values when the key is known
